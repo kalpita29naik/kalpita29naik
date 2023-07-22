@@ -2,8 +2,6 @@
 <h3 align="center">I am Third Year Computer Science Student.</h3>
 
 - 🔭 I’m currently working on **CS50 Project**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
