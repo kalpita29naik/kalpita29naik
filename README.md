@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kalpita Naik</h1>
 <h3 align="center">I am Third Year Computer Science Student.</h3>
 
-- 🔭 I’m currently working on **CS50 Project**
+
 <p align="left">
 </p>
 
