@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kalpita Krishna Naik</h1>
-<h3>Final Year Computer Science Student with a strong interest for web development. Proficient in HTML, CSS, and JavaScript, eager to leverage these skills to create user-friendly and visually appealing websites.</h3>
+# 💫 About Me:
+Final Year Computer Science Student with a strong interest for Web Development. <br>
+
 
 - 🌱 I’m currently learning **React**
 
