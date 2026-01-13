@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kalpita Krishna Naik</h1>
 
 <h3>
-  🚀 Software Developer
+  🚀 Software Developer <br/>
   🎓 Computer Engineering Graduate (2021–2025) | Goa Engineering College <br/>
 </h3>
 
